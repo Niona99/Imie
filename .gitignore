@@ -1,0 +1,23 @@
+# Android build files and keystore
+build/
+*.apk
+*.aab
+*.jks
+key.properties
+
+# Android Studio
+.gradle/
+.idea/
+*.iml
+
+# Flutter specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Environment files
+.env
+.env.local
